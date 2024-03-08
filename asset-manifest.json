@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectarc/static/css/main.721f095f.css",
+    "main.js": "/projectarc/static/js/main.0abb1e7a.js",
+    "static/js/453.b8ee49d7.chunk.js": "/projectarc/static/js/453.b8ee49d7.chunk.js",
+    "index.html": "/projectarc/index.html",
+    "main.721f095f.css.map": "/projectarc/static/css/main.721f095f.css.map",
+    "main.0abb1e7a.js.map": "/projectarc/static/js/main.0abb1e7a.js.map",
+    "453.b8ee49d7.chunk.js.map": "/projectarc/static/js/453.b8ee49d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721f095f.css",
+    "static/js/main.0abb1e7a.js"
+  ]
+}
